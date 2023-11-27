@@ -18,6 +18,10 @@ The notebook has an example with some generated random data.
 - `numpy`
 - `matplotlib`
 
+## Credits
+The implementation is based on a youtube tutorial created by [NeuralNine](https://youtu.be/5w5iUbTlpMQ?si=LzfyxOvTfaw15tlo).
+
+
 
 
 
